@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "sirbrillig/phpcs-variable-analysis": "^2.8"
+    }
+}
